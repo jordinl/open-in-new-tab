@@ -1,10 +1,10 @@
 {
-  "title": "open-in-new-tab",
+  "title": "Open in new tab",
   "name": "open-in-new-tab",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Open all links in a new tab when you ctrl+click (or cmd+click in OSX).",
   "main": "index.js",
-  "author": "",
+  "author": "Jordi Noguera",
   "engines": {
     "firefox": ">=38.0a1",
     "fennec": ">=38.0a1"
